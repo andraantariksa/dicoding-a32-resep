@@ -6,7 +6,7 @@ Resep is a LINE Chatbot to find foods or beverages recipe. It utilize [Spoontacu
 
 [Live Demo](https://andraantariksa-a32-resep.herokuapp.com/)
 
-## Getting Started
+### Getting Started
 
 Install the dependencies
 
@@ -30,6 +30,6 @@ Run the application
 npm start
 ```
 
-## License
+### License
 
 Licensed under [MIT License](LICENSE)
