@@ -12,7 +12,7 @@
   "dependencies": {
     "@line/bot-sdk": "^7.5.2",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "string-strip-html": "^4.3.18",
     "unirest": "^0.6.0"
   }
